@@ -1,8 +1,8 @@
 body{
     background-image: url('images/YesLad.jpg'); /* Replace with the path to your image file */
-    background-size: 20% ; /* Cover the entire viewport */
-    background-position: right; /* Center the image */
-    background-repeat: repeat-x;      
+    background-size: 20% 20%; /* Cover the entire viewport */
+    background-position: auto; /* Center the image */
+    background-repeat: repeat;      
     display: flex;
     align-items: center;
     justify-content: center;
