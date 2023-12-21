@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Make sure the body takes the full height of the viewport */
+    margin: 0; /* Remove default margin to ensure full width */
+}
+.video-card {
+    text-align: center; /* Center the content horizontally */
+}
+#vidcard {
+    display: inline-block; /* Center the content vertically */
+}
